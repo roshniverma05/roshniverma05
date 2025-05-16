@@ -9,8 +9,8 @@ ________________________________________________________________________________
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/roshni-verma-a50a24284?trk=contact-info/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/roshniverma_05/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/roshni-verma-a50a24284?trk=contact-info/" title="LinkedIn Profile"><img width="22" src="https://cognitionconferences.com/terms-and-conditions/">LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/roshniverma_05/" title="Instagram Profile"><img width="22" src="https://www.uihere.com/free-cliparts/logo-icon-instagram-png-logo-instagram-logo-960054">Instagram</a></code>
 </h5>
 <br>
 <p align="center">
