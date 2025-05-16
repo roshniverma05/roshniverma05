@@ -15,8 +15,9 @@ ________________________________________________________________________________
 <br>
 <p align="center">
   Hi, I'm ROSHNI VERMA, a Student, Learner, and Beginner from India
+  <br></p>
   <br>
-  <br>
+  <p>
   🔬 I'm currently studying for my dual degree of engineering at Devi Ahilya University, Department of Information Technology.
   <br>
   🎓 Currently in a final year of undergraduation, from International Institute of Professional Studies, DAVV, Indore.
