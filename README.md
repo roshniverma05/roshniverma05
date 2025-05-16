@@ -52,6 +52,7 @@ ________________________________________________________________________________
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
