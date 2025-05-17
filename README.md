@@ -14,7 +14,7 @@ ________________________________________________________________________________
 </h5>
 <br>
 <p align="center">
-  <b>Hi, I'm ROSHNI VERMA, a Student, Learner, and Beginner from India</b></p>
+  <b> ✨ Hi, I'm ROSHNI VERMA, a Student, Learner, and Beginner from India ✨</b></p>
   <br></p>
   <br>
   <p>
