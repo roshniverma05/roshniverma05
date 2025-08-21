@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/roshni-verma-a50a24284?trk=contact-info/" title="LinkedIn Profile"><img width="40" src="https://github.com/roshniverma05/roshniverma05/blob/main/Screenshot%202025-05-17%20101251.png"> | </a></code>
-  <code><a href="https://www.instagram.com/roshniverma_05/" title="Instagram Profile"><img width="35" src="https://github.com/roshniverma05/roshniverma05/blob/main/Screenshot%202025-05-17%20101905.png"> </a></code>
+  <code><a href="https://www.instagram.com/roshniverma05/" title="Instagram Profile"><img width="35" src="https://github.com/roshniverma05/roshniverma05/blob/main/Screenshot%202025-05-17%20101905.png"> </a></code>
 </h5>
 <br>
 <p align="center">
