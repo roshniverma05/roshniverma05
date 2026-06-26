@@ -14,7 +14,7 @@ ________________________________________________________________________________
 </h5>
 <br>
 <p align="center">
-  <b> ✨ Hi, I'm ROSHNI VERMA, a Student, Learner, and Beginner from India ✨</b></p>
+  <b> ✨ Hi, I'm ROSHNI VERMA, Building. Learning. Innovating. One backend at a time. ✨</b></p>
   <br></p>
   <br>
   <p>
@@ -31,6 +31,7 @@ I enjoy designing scalable backend systems, building AI-powered applications, an
 - 🎖️ **NCC Under Officer** | 3 Years of Service | 7 Camps
 - 🌱 Currently exploring **LLMs, RAG, LangChain & Agentic AI**
 - 💡 Passionate about learning, building, and contributing to impactful software
+  <br>
   💬 Ask me anything about from <a href="https://github.com/roshniverma05/roshni/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: roshniverma93409@gmail.com">roshniverma93409@gmail.com</a>
