@@ -1,101 +1,95 @@
-# Hi 👋, I'm Roshni Verma
+___________________________________________________________________________________________________________________________________________________
 
-<div align="center">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=roshnivema05-roshni">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366f1,100:a855f7&text=Roshni%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+ROSHNI+VERMA....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+%7C+Machine+Learning+%7C+NLP;Python+%7C+FastAPI+%7C+Django;Always+Learning+New+Technologies+🚀"/>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/roshni-verma-a50a24284?trk=contact-info/" title="LinkedIn Profile"><img width="40" src="https://github.com/roshniverma05/roshniverma05/blob/main/Screenshot%202025-05-17%20101251.png"> | </a></code>
+  <code><a href="https://www.instagram.com/roshniverma05/" title="Instagram Profile"><img width="35" src="https://github.com/roshniverma05/roshniverma05/blob/main/Screenshot%202025-05-17%20101905.png"> </a></code>
+</h5>
+<br>
+<p align="center">
+  <b> ✨ Hi, I'm ROSHNI VERMA, a Student, Learner, and Beginner from India ✨</b></p>
+  <br></p>
+  <br>
+  <p>
+  ## 💜 About Me
 
-</div>
+I'm a passionate **Backend Developer** with a strong foundation in **Python, FastAPI, Django, PostgreSQL, and React**, along with a growing interest in **Artificial Intelligence, Natural Language Processing, and Large Language Models**.
 
----
-
-## 💜 About Me
+I enjoy designing scalable backend systems, building AI-powered applications, and solving real-world problems through clean, efficient code. I'm continuously learning modern AI technologies such as **RAG, LangChain, and Agentic AI** while strengthening my software engineering skills.
 
 - 🎓 Final Year IT Student at **IIPS DAVV, Indore**
-- 💼 Summer Intern – **Certificate Generator (May–Jul 2025)**
-- 🤖 Passionate about **Backend Development, AI, NLP & LLMs**
-- 🎖️ NCC Under Officer | 3 Years | 7 Camps
-- 🛡️ Completed Cyber Security Course
-- 🌱 Currently learning **RAG, LangChain & Agentic AI**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,cpp,git,github,postgres,docker,vscode"/>
-
+- 💼 Summer Intern – **Certificate Generator** (May 2025 – Jul 2025)
+- 🚀 Built projects in **AI, NLP, Backend Development & Data Analysis**
+- 🛡️ Completed **Cyber Security Course**
+- 🎖️ **NCC Under Officer** | 3 Years of Service | 7 Camps
+- 🌱 Currently exploring **LLMs, RAG, LangChain & Agentic AI**
+- 💡 Passionate about learning, building, and contributing to impactful software
+  💬 Ask me anything about from <a href="https://github.com/roshniverma05/roshni/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: roshniverma93409@gmail.com">roshniverma93409@gmail.com</a>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🔍 Plagiarism Detection System
-- FastAPI + React + PostgreSQL
-- NLP, Semantic Similarity, Machine Learning
-
-### 📜 Certificate Generator
-- Django-based certificate generation
-- CSV Upload, QR Code, Cloudinary
-
-### 🌍 International Tourism Analysis
-- Python, NumPy, Pandas, Matplotlib
-
----
-
-## 📊 GitHub Stats
-
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Roshni-verma18&show_icons=true&theme=transparent"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Roshni-verma18&theme=transparent"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" alt="travis" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="40" height="40" />
+ <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
+</p>
+<hr>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=roshniverma05&theme=react-light&bg_color=#FFFFFF&hide_border=true" alt="roshni" />
+    </a>
+    <a href="https://github.com/roshniverma05/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=roshniverma05&show_icons=true&theme=react-light&bg_color=#FFFFFF&hide_border=true,Cuda&title_color=61dafb&text_color=#808000&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb "/>
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/roshniverma05/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshniverma05&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=#808000&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshniverma05&theme=react-light&bg_color=#FFFFFF&hide_border=true" width="100%"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshni-verma18&layout=compact&theme=transparent"/>
-</p>
+<hr>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Roshni-verma18&theme=flat&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshni-verma18&theme=github-compact"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Agentic AI
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/roshniverma18
-- 💻 GitHub: https://github.com/Roshni-verma18
-- 📧 Email: roshniverma18@gmail.com
-
----
-
-<div align="center">
-
-> 💜 *"Consistency beats intensity."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer"/>
-
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/roshniverma05/python-lab" title="assignments"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=roshniverma05&repo=python-lab&theme=react-light&bg_color=#808000&hide_border=true&border_radius=10"></a><a align="right" </a>
 </div>
