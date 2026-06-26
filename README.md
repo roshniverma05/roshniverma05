@@ -1,87 +1,101 @@
-::: {align="center"}
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366f1,100:a855f7&text=Roshni%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>`{=html}
+# Hi 👋, I'm Roshni Verma
 
-# Hi, I'm Roshni Verma 👋
+<div align="center">
 
-`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+%7C+Machine+Learning+%7C+NLP;Python+%7C+FastAPI+%7C+Django;Always+Learning+New+Technologies+%F0%9F%9A%80"/>`{=html}
-:::
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6366f1,100:a855f7&text=Roshni%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+%7C+Machine+Learning+%7C+NLP;Python+%7C+FastAPI+%7C+Django;Always+Learning+New+Technologies+🚀"/>
+
+</div>
+
+---
 
 ## 💜 About Me
 
--   🎓 Final Year IT Student at **IIPS DAVV, Indore**
--   💼 Summer Intern -- **Certificate Generator (May--Jul 2025)**
--   🤖 Interested in **Backend Development, AI, NLP & LLMs**
--   🛡️ Completed Cyber Security Course
--   🎖️ NCC Under Officer \| 3 Years \| 7 Camps
--   🌱 Currently learning **RAG, LangChain & Agentic AI**
+- 🎓 Final Year IT Student at **IIPS DAVV, Indore**
+- 💼 Summer Intern – **Certificate Generator (May–Jul 2025)**
+- 🤖 Passionate about **Backend Development, AI, NLP & LLMs**
+- 🎖️ NCC Under Officer | 3 Years | 7 Camps
+- 🛡️ Completed Cyber Security Course
+- 🌱 Currently learning **RAG, LangChain & Agentic AI**
 
-------------------------------------------------------------------------
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,cpp,git,github,postgres,docker,vscode"/>
 
-**Frameworks & Tools**
+</p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-------------------------------------------------------------------------
+---
 
 ## 🚀 Featured Projects
 
 ### 🔍 Plagiarism Detection System
-
-AI-powered plagiarism detection using NLP, semantic similarity, FastAPI,
-React and PostgreSQL.
+- FastAPI + React + PostgreSQL
+- NLP, Semantic Similarity, Machine Learning
 
 ### 📜 Certificate Generator
-
-Automatic certificate generation with CSV upload, QR verification and
-cloud integration.
+- Django-based certificate generation
+- CSV Upload, QR Code, Cloudinary
 
 ### 🌍 International Tourism Analysis
+- Python, NumPy, Pandas, Matplotlib
 
-Python-based data analysis using NumPy, Pandas and Matplotlib.
-
-------------------------------------------------------------------------
+---
 
 ## 📊 GitHub Stats
 
-::: {align="center"}
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Roshni-verma18&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Roshni-verma18&theme=transparent"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshni-verma18&layout=compact&theme=transparent"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
-:::
-
-------------------------------------------------------------------------
+---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&margin-w=10)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Roshni-verma18&theme=flat&no-frame=true&margin-w=15"/>
+</p>
 
-------------------------------------------------------------------------
+---
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roshni-verma18&theme=github-compact"/>
+</p>
 
-------------------------------------------------------------------------
+---
+
+## 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Agentic AI
+
+---
 
 ## 📫 Connect With Me
 
--   💼 LinkedIn: https://linkedin.com/in/roshniverma18
--   📧 Email: roshniverma18@gmail.com
--   💻 GitHub: https://github.com/Roshni-verma18
+- 💼 LinkedIn: https://linkedin.com/in/roshniverma18
+- 💻 GitHub: https://github.com/Roshni-verma18
+- 📧 Email: roshniverma18@gmail.com
 
-> **"Consistency beats intensity."** 💜
+---
+
+<div align="center">
+
+> 💜 *"Consistency beats intensity."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer"/>
+
+</div>
