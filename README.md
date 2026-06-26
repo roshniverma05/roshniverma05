@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=180&section=header&text=Roshni%20Verma&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Backend%20Dev%20%E2%80%A2%20ML%20%E2%80%A2%20NLP%20Engineer&descAlignY=75&descSize=20&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=180&section=header&text=Roshni%20Verma&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Backend%20Dev%20%E2%80%A2%20ML%20%E2%80%A2%20NLP%20Engineer&descAlignY=85&descSize=20&fontAlign=50" width="100%"/>
 
 </div>
 
@@ -97,9 +97,9 @@ class RoshniVerma:
 
 <br>
 
-> 🎓 **Certificate Generator** — Django + QR + PDF · Auto-generates tamper-proof certificates scannable via QR code
+> 🎓 **Certificate Generator** — Django + React + QR · Auto-generates tamper-proof certificates scannable with QR code verification
 >
-> 📊 **Spotify Analytics** — Streamlit · 7-page market intelligence dashboard for Atlantic Records UK
+> 📊 **UK artists Analytics** — Streamlit · 7-page market intelligence dashboard for Atlantic Records UK
 >
 > 🧠 **EduPro Segmentation** — React + K-Means++ · 4 learner clusters (silhouette 0.578) + course recommendations
 >
@@ -121,16 +121,6 @@ class RoshniVerma:
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshniverma05&theme=github-light&hide_border=true&bg_color=ffffff&color=6366f1&line=a855f7&point=6366f1&area=true&area_color=6366f1" width="98%"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=roshniverma05&theme=flat&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/roshniverma05)
 
 </div>
 
