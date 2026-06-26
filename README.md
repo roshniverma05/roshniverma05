@@ -20,7 +20,7 @@ ________________________________________________________________________________
   <p>
   ## 💜 About Me
 
-I'm a passionate **Backend Developer** with a strong foundation in **Python, FastAPI, Django, PostgreSQL, and React**, along with a growing interest in **Artificial Intelligence, Natural Language Processing, and Large Language Models**.
+I'm a passionate **Developer** with a strong foundation in **Python, FastAPI, Django, PostgreSQL, and React**, along with a growing interest in **Artificial Intelligence, Natural Language Processing, and Large Language Models**.
 
 I enjoy designing scalable backend systems, building AI-powered applications, and solving real-world problems through clean, efficient code. I'm continuously learning modern AI technologies such as **RAG, LangChain, and Agentic AI** while strengthening my software engineering skills.
 
