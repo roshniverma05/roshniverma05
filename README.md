@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,100:a855f7&height=200&section=header&text=Roshni%20Verma&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Backend%20Dev%20%7C%20ML%20%7C%20NLP%20Engineer&descAlignY=82&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=180&section=header&text=Roshni%20Verma&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Backend%20Dev%20%E2%80%A2%20ML%20%E2%80%A2%20NLP%20Engineer&descAlignY=75&descSize=20&fontAlign=50" width="100%"/>
 
 </div>
 
@@ -87,16 +87,23 @@ class RoshniVerma:
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<br>
 
-| 🏗️ Project | 🛠️ Stack | ✨ What makes it cool |
-|---|---|---|
-| **Certificate Generator** | Django · QR · PDF | Auto-generates tamper-proof certificates scannable via QR |
-| **Spotify Analytics Dashboard** | Streamlit · Python | 7-page Atlantic Records UK intelligence — genre trends, artist reach |
-| **EduPro Segmentation** | React · K-Means++ | Clusters 4 learner types (silhouette 0.578) + smart recommendations |
-| **LLM Chatbot** | FastAPI · Ollama · Gradio | Local LLM + NLP pipeline with sentiment analysis, runs offline |
+<a href="https://github.com/roshniverma05">
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=roshniverma05&repo=python-lab&theme=default&hide_border=false&border_radius=10&title_color=6366f1&icon_color=a855f7"/>
+</a>
 
-</div>
+<br clear="both"/>
+
+<br>
+
+> 🎓 **Certificate Generator** — Django + QR + PDF · Auto-generates tamper-proof certificates scannable via QR code
+>
+> 📊 **Spotify Analytics** — Streamlit · 7-page market intelligence dashboard for Atlantic Records UK
+>
+> 🧠 **EduPro Segmentation** — React + K-Means++ · 4 learner clusters (silhouette 0.578) + course recommendations
+>
+> 🤖 **LLM Chatbot** — FastAPI + Ollama + Gradio · Local LLM with NLP pipeline, runs fully offline
 
 ---
 
@@ -104,16 +111,16 @@ class RoshniVerma:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=roshniverma05&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=a855f7&bg_color=0d1117&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshniverma05&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&bg_color=0d1117&langs_count=7"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=roshniverma05&show_icons=true&theme=default&hide_border=false&border_radius=10&title_color=6366f1&icon_color=a855f7&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshniverma05&layout=compact&theme=default&hide_border=false&border_radius=10&title_color=6366f1&langs_count=7"/>
 
-<br/>
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=roshniverma05&theme=tokyonight&hide_border=true&ring=6366f1&fire=a855f7&currStreakLabel=6366f1&background=0d1117&sideLabels=6366f1"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=roshniverma05&theme=default&hide_border=false&border_radius=10&ring=6366f1&fire=a855f7&currStreakLabel=6366f1"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshniverma05&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=a855f7&point=ffffff&area=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshniverma05&theme=github-light&hide_border=true&bg_color=ffffff&color=6366f1&line=a855f7&point=6366f1&area=true&area_color=6366f1" width="98%"/>
 
 </div>
 
@@ -123,7 +130,7 @@ class RoshniVerma:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=roshniverma05&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/roshniverma05)
+[![trophy](https://github-profile-trophy.vercel.app/?username=roshniverma05&theme=flat&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/roshniverma05)
 
 </div>
 
@@ -131,7 +138,7 @@ class RoshniVerma:
 
 <div align="center">
 
-### 💬 Let's connect — I'm open to AI / ML · Backend · Data roles!
+### 💬 Open to AI / ML · Backend · Data roles — Let's connect!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=100&section=footer" width="100%"/>
 
